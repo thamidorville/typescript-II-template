@@ -1,0 +1,5 @@
+
+> typescript-ii-template@1.0.0 start-ex-2
+> tsc && node ./build/fixacao/exercicio2/index.js
+
+[ { autor: 'Dobby', texto: 'Dobby é um elfo livre!' } ]
